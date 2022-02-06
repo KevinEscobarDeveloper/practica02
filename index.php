@@ -2,6 +2,7 @@
 require_once("Libro.php");
 require_once("Ebook.php");
 require_once("Instancias.php");
+require 'vedor/autoload.php';
 ?>
 
 
